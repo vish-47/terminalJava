@@ -5,8 +5,6 @@ public class terminalPractice {
         System.out.println("polling for Jenkins");
         System.out.println("continuous polling for Jenkins");
         System.out.println("pushing to remote branch");
-        System.out.println("added new file h");
-
 
 
 
